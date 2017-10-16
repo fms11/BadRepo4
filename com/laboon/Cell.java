@@ -67,6 +67,7 @@ public class Cell {
      * @return Character representation of the cell's state
      */
 	
+
     public char getStateRep() {
 	char toReturn = ' ';
 	if (_state == State.DEAD) {

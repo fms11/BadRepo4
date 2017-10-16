@@ -2,6 +2,7 @@ package com.laboon;
 
 public class JavaLife {
 
+<<<<<<< HEAD
     /**
      * This is the main part.
      *
@@ -19,6 +20,7 @@ public class JavaLife {
 	    w = w.iterate();
 	    System.out.println("Iteration " + (j + 1) + ":");
 	    System.out.println(w.toString());
+
 	}
 		
     }
